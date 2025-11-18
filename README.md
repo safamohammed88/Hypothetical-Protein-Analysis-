@@ -3,6 +3,7 @@ In-silico analysis of a hypothetical protein from a resistant pathogen
 
 This project includes the computational analysis of a hypothetical protein sequence retrieved from NCBI.  
 Tools used: NCBI, MEGA7, ProtParam, CELLO, PSORTB, CDD, SOPMA Server,Chimerax, Procheck, Verify 3D, PrankWeb, Expassy Docking.
+
 Steps:
 
 1. Retrieved sequence from NCBI.
