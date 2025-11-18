@@ -9,7 +9,7 @@ Steps:
 1. Retrieved sequence from NCBI.
 2. Determined evolutionary relatedness through BLAST searches, multiple sequence alignment, and phylogenetic tree construction.
 3. Analyzed physicochemical properties using ProtParam to assess the stability of the protein.
-4.predicted the subcellular localization using CELLO and Psortb.
+4. Predicted the subcellular localization using CELLO and Psortb.
 5. Identified functional domains using Conserved Domain Database (CDD).
 6. Predicted the 3D structure using AlphaFold.
 7. Validated the predicted 3D structure.
